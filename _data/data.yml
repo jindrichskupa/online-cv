@@ -43,9 +43,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      There will be some content.
+      I am looking for new challenges and opportunities. I really love information technology with the focus on programming, applications, API and distributed systems with high availability and fault tolerance. My passion is to deliver the high-quality application with added value. API design, database design, protocol specification and standard usage is my true hobby.
 
-      Second paragraph of content.
+      I would like to grow.
 
 education:
     - degree: PhD in Computer Science
@@ -94,15 +94,15 @@ experiences:
       time: 2018 - Present
       company: Unicorn College s.r.o.
       details: |
-        Part time cources lector
+        Part-time courses lector
 
-          - Operating systems and networks
+          - Operating systems and computer networks
 
     - role: Solution Architect &amp; DevOps Team Leader
       time: 2013 - Present
       company: eMan s.r.o.
       details: |
-        High level application design. System integration. API and interface specifications. Technology &amp; GitLab evangelist.
+        High-level application design. System integration. API and interface specifications. Technology &amp; GitLab evangelist.
 
           - Process and data analysis
           - API Design (swagger, blueprint, testing, postman)
@@ -153,7 +153,7 @@ experiences:
 
           - Computer network 101
           - Operating systems 101
-          - Network and system administation
+          - Network and system administration
           - Network application security
 
     - role: Co-owner, Operations &amp; Project Manager
@@ -171,7 +171,7 @@ experiences:
       time: 2011 - 2013
       company: VigData s.r.o.
       details: |
-        System and aplication specialist.
+        System and application specialist.
 
           - Mailing services
           - Web services
@@ -186,7 +186,7 @@ experiences:
       time: 2007 - 2011
       company: YBhosting s.r.o.
       details: |
-        Webhosting services administrator.
+        Web hosting services administrator.
 
           - Mailing services
           - Web services
@@ -210,7 +210,7 @@ experiences:
       time: 2009 - 2010
       company: VigData s.r.o.
       details: |
-        System and aplication specialist.
+        System and application specialist.
 
           - Mailing services
           - Web services
@@ -224,7 +224,7 @@ experiences:
       time: 2007 - 2008
       company: Vigour a.s.
       details: |
-        System and aplication specialist.
+        System and application specialist.
 
           - Web services
           - Application administration automation
