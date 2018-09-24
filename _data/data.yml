@@ -239,7 +239,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Some small ruby gems and pull request for used libs. 
+      Some small libs, tools, slides and docker images.
 
     assignments:
       - title: CzFaker
@@ -252,7 +252,7 @@ projects:
 
       - title: Docker images
         link: "https://hub.docker.com/r/jindrichskupa/"
-        tagline: "Some usefull docker images."
+        tagline: "Some useful docker images."
 
       - title: Ansible role for GL on GCE
         link: "https://github.com/jindrichskupa/gitlab.gce.role"
