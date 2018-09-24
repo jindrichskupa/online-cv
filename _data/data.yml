@@ -104,11 +104,12 @@ experiences:
       details: |
         High level application design. System integration. API and interface specifications. Technology &amp; GitLab evangelist.
 
+          - Process and data analysis
           - API Design (swagger, blueprint, testing, postman)
           - OAuth2.0, SAML
           - SQL databases (PostgreSQL, MySQL, Oracle)
           - Ruby on Rails, NodeJS, Java
-          - noSQL databases (ElasticSearch, Redis, MongoDB, CouchDB, )
+          - noSQL databases (ElasticSearch, Redis, MongoDB, CouchDB)
           - JSON, XML
           - Message Queue (RabbitMQ, Kafka, Redis)
           - Cloud (GCP, AWS, Azure)
@@ -118,7 +119,7 @@ experiences:
 
           - Web servers (apache, nginx)
           - Application servers (puma, unicorn, tomcat, nodejs, spring)
-          - Databases (PostgreSQL, MySQL, LDAP, Redis, MySQL, ...)
+          - Databases (PostgreSQL, MySQL, LDAP, Redis, MySQL...)
           - Cloud, Kubernetes
           - Log management
           - CI/CD
