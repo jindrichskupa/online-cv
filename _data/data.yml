@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Jindrich Skupa
-    tagline: IT worl mule
+    tagline: IT world mule
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -56,77 +56,218 @@ education:
       university: University of West Bohemia
       time: 2012 - present
       details: |
-        Describe my study here.
+        Field of study: Distributed systems and networks
         
-          - Bullet point
-          - Bullet point 
-
-    - degree: MSc in Computer Science
-      university: University of West Bohemia
-      time: 2009 - 2012
-      details: |
-        Describe my study here.
-        
-          - Bullet point
-          - Bullet point 
+          - Distributed filesystems
+          - Overlay networks
+          - Dynamic routing
 
     - degree: Erasmus student exchange
       university: Universidad de Las Palmas de Gran Canaria
       time: 2011 - 2012
       details: |
-        Describe my study here.
+        Field of study: Information technology
 
-          - Bullet point
-          - Bullet point 
+          - Operating systems
+          - Parallel programming
+
+
+    - degree: MSc in Computer Science
+      university: University of West Bohemia
+      time: 2009 - 2012
+      details: |
+        Field of study: Distributed systems and networks
+        
+          - Distributed filesystems
+          - Overlay networks
+          - Dynamic routing
 
     - degree: BSc in Computer Science
       university: University of West Bohemia
       time: 2006 - 2009
       details: |
-        Describe my study here.
+        Field of study: Information technology
 
-          - Bullet point
-          - Bullet point 
+          - Parallel programming
+          - System programming
+          - Computer networks
 
 experiences:
-    - role: Solution Architect
-      time: 2015 - Present
+
+    - role: Lector
+      time: 2018 - Present
+      company: Unicorn College s.r.o.
+      details: |
+        Part time cources lector
+
+          - Operating systems and networks
+
+    - role: Solution Architect &amp; DevOps Team Leader
+      time: 2013 - Present
       company: eMan s.r.o.
       details: |
-        Describe my role here.
+        High level application design. System integration. API and interface specifications. Technology &amp; GitLab evangelist.
 
-          - Bullet point
-          - Bullet point 
+          - API Design (swagger, blueprint, testing, postman)
+          - OAuth2.0, SAML
+          - SQL databases (PostgreSQL, MySQL, Oracle)
+          - Ruby on Rails, NodeJS, Java
+          - noSQL databases (ElasticSearch, Redis, MongoDB, CouchDB, )
+          - JSON, XML
+          - Message Queue (RabbitMQ, Kafka, Redis)
+          - Cloud (GCP, AWS, Azure)
+          - Troubleshooting
 
-    - role: DevOps Team Leader
+        System administration and automation. 
+
+          - Web servers (apache, nginx)
+          - Application servers (puma, unicorn, tomcat, nodejs, spring)
+          - Databases (PostgreSQL, MySQL, LDAP, Redis, MySQL, ...)
+          - Cloud, Kubernetes
+          - Log management
+          - CI/CD
+          - Virtualisation &amp; containers (KVM, docker)
+          - Automation: puppet, ansible, chef
+          - Monitoring (zabbix, nagios, mrtg)
+          - PKI
+          
+    - role: DevOps Engineer &amp; System Specialist
       time: 2015 - present
-      company: eMan s.r.o.
+      company: Enrian Partners a.s.
       details: |
-        Describe my role here.
+        System administration and automation. 
 
-          - Bullet point
-          - Bullet point 
+          - Web servers (apache, nginx)
+          - Application servers (puma, unicorn, tomcat, nodejs, spring)
+          - Databases (PostgreSQL, MySQL, LDAP, Redis, MySQL, ...)
+          - Cloud (GCP, AWS, Azure), Kubernetes
+          - Log management
+          - CI/CD
+          - Virtualisation &amp; containers (KVM, docker)
+          - Automation: puppet, ansible, chef
+          - Monitoring (zabbix, sensu)
+          - PKI
+
+    - role: PhD. Student and Junior Researcher
+      time: 2012 - Present
+      company: University of West Bohemia
+      details: |
+        Distributed systems and networks and lectures.
+
+          - Computer network 101
+          - Operating systems 101
+          - Network and system administation
+          - Network application security
+
+    - role: Co-owner, Operations &amp; Project Manager
+      time: 2011 - 2017
+      company: NetBrick s.r.o.
+      details: |
+        Project management and operations.
+
+          - Application and systems operations
+          - Application design and implementation
+          - Database specialist
+          - Project management
 
     - role: ICT Specialist
-      time: 2012 - 2014
+      time: 2011 - 2013
       company: VigData s.r.o.
       details: |
-        Describe my role here.
+        System and aplication specialist.
 
-          - Bullet point
-          - Bullet point 
+          - Mailing services
+          - Web services
+          - Databases
+          - Application deployment automation
+          - Virtualisation (Xen)
+          - Backup and monitoring
+          - Cluster management
+          - Networking &amp; VPN
+
+    - role: ICT Specialist
+      time: 2007 - 2011
+      company: YBhosting s.r.o.
+      details: |
+        Webhosting services administrator.
+
+          - Mailing services
+          - Web services
+          - Databases
+          - Backup and monitoring
+
+    - role: Server administrator
+      time: 2010 - 2010
+      company: AdminIT s.r.o.
+      details: |
+        System and network services administrator.
+
+          - Mailing services
+          - Web services
+          - Databases
+          - Backup and monitoring
+          - Cluster management
+          - Networking &amp; VPN
+
+    - role: ICT Specialist
+      time: 2009 - 2010
+      company: VigData s.r.o.
+      details: |
+        System and aplication specialist.
+
+          - Mailing services
+          - Web services
+          - Databases
+          - Application deployment automation
+          - Backup and monitoring
+          - Cluster management
+          - Networking &amp; VPN
+          
+    - role: ICT Specialist
+      time: 2007 - 2008
+      company: Vigour a.s.
+      details: |
+        System and aplication specialist.
+
+          - Web services
+          - Application administration automation
+          - Virtualisation (Xen)
+          - Backup and monitoring
+          - Cluster management
+          - Networking &amp; VPN
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Some small ruby gems and pull request for used libs. 
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: CzFaker
+        link: "https://github.com/eManPrague/cz_faker"
+        tagline: "Faker for Czech data with validators."
+
+      - title: ApiMiniTester
+        link: "https://github.com/eManPrague/api-mini-tester"
+        tagline: "Simple gem for JSON REST API testing without coding."
+
+      - title: Docker images
+        link: "https://hub.docker.com/r/jindrichskupa/"
+        tagline: "Some usefull docker images."
+
+      - title: Ansible role for GL on GCE
+        link: "https://github.com/jindrichskupa/gitlab.gce.role"
+        tagline: "Ansible role for GitLab installation in GCE environment."
+
+      - title: Install Fest 2017 slides
+        link: "https://github.com/jindrichskupa?utf8=✓&tab=repositories&q=if2017&type=&language="
+        tagline: "Slides of my presentations at Install Fest 2017"
+
+      - title: Lecture slides
+        link: "https://github.com/jindrichskupa?utf8=✓&tab=repositories&q=kiv&type=&language="
+        tagline: "Command lists for lectures."
+
+
+
 
 publications:
     title: Publications
@@ -136,25 +277,29 @@ publications:
       bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Survey of traffic prediction methods for dynamic routing in overlay network.
+        authors: SKUPA, J. SAFARIK, J.
+        conference: Proceedings of 2017 IEEE 14th International Scientific Conference on Informatics Poprad, Slovakia, 2017
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Dynamic internal message routing in distributed file system.
+        authors: SKUPA, J., MATEJKA, L., SAFARIK, J.
+        conference: Proceedings of 2015 IEEE 13th International Scientific Conference on Informatics Poprad, Slovakia, 2015
+        
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills &amp; Proficiency (WIP)
 
     toolset:
-      - name: Python & Django
-        level: 10%
-
       - name: Ruby on Rails
         level: 85%
 
       - name: GNU/Linux (Debian, Ubuntu, CentOS)
+        level: 85%
+
+      - name: REST API (JSON, XML, Swagger, Blueprint)
+        level: 90%
+
+      - name: SQL Databases (PostgreSQL, MySQL)
         level: 85%
 
 
