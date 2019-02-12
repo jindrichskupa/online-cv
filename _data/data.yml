@@ -57,6 +57,7 @@ education:
           - Distributed filesystems
           - Overlay networks
           - Dynamic routing
+          - Traffic prediction
 
     - degree: Erasmus student exchange
       university: Universidad de Las Palmas de Gran Canaria
@@ -105,14 +106,14 @@ experiences:
         High-level application design. System integration. API and interface specifications. Technology &amp; GitLab evangelist.
 
           - Process and data analysis
-          - API Design (swagger, blueprint, testing, postman)
+          - API Design (swagger, openAPI, blueprint, testing, postman)
           - OAuth2.0, SAML
           - SQL databases (PostgreSQL, MySQL, Oracle)
           - Ruby on Rails, NodeJS, Java
           - noSQL databases (ElasticSearch, Redis, MongoDB, CouchDB)
-          - JSON, XML
+          - JSON (Schema), XML (XSD, XSLT)
           - Message Queue (RabbitMQ, Kafka, Redis)
-          - Cloud (GCP, AWS, Azure)
+          - Cloud deployment and management (GCP, AWS, Azure)
           - Troubleshooting
 
         System administration and automation. 
@@ -124,7 +125,7 @@ experiences:
           - Log management
           - CI/CD
           - Virtualisation &amp; containers (KVM, docker)
-          - Automation: puppet, ansible, chef
+          - System automation: puppet, ansible, chef
           - Monitoring (zabbix, nagios, mrtg)
           - PKI
           
@@ -137,13 +138,16 @@ experiences:
           - Web servers (apache, nginx)
           - Application servers (puma, unicorn, tomcat, nodejs, spring)
           - Databases (PostgreSQL, MySQL, LDAP, Redis, MySQL, ...)
-          - Cloud (GCP, AWS, Azure), Kubernetes
-          - Log management
-          - CI/CD
+          - Cloud deployment and management (GCP, AWS, Azure)
+          - Kubernetes, High avalability, Scaling
+          - VPN, routing and networking (Linux, Cisco)
+          - Log management (ELK, Syslog)
+          - CI/CD (Gitlab, Travis, CircleCI)
           - Virtualisation &amp; containers (KVM, docker)
-          - Automation: puppet, ansible, chef
-          - Monitoring (zabbix, sensu)
-          - PKI
+          - System automation: puppet, ansible, chef
+          - Monitoring (zabbix, sensu, nagios)
+          - PKI, SSL
+          - IAM (LDAP, OAuth, SAML, AD, OpenID)
 
     - role: PhD. Student and Junior Researcher
       time: 2012 - Present
@@ -251,7 +255,7 @@ projects:
         link: "https://hub.docker.com/r/jindrichskupa/"
         tagline: "Some useful docker images."
 
-      - title: Ansible role for GL on GCE
+      - title: Ansible role for Gitlab on GCE
         link: "https://github.com/jindrichskupa/gitlab.gce.role"
         tagline: "Ansible role for GitLab installation in GCE environment."
 
@@ -261,10 +265,7 @@ projects:
 
       - title: Lecture slides
         link: "https://github.com/jindrichskupa?utf8=✓&tab=repositories&q=kiv&type=&language="
-        tagline: "Command lists for lectures."
-
-
-
+        tagline: "List of commands for lectures."
 
 publications:
     title: Publications
@@ -285,7 +286,10 @@ skills:
     title: Skills &amp; Proficiency (WIP)
 
     toolset:
-      - name: Ruby on Rails
+      - name: Ruby &amp; Ruby on Rails
+        level: 85%
+
+      - name: Cloud (GCE, AWS, Azure)
         level: 85%
 
       - name: GNU/Linux (Debian, Ubuntu, CentOS)
@@ -296,6 +300,15 @@ skills:
 
       - name: SQL Databases (PostgreSQL, MySQL)
         level: 85%
+
+      - name: noSQL Databases (ElasticSearch, MongoDB, Redis)
+        level: 80%
+
+      - name: Networking and network services
+        level: 90%
+
+      - name: Architecture &amp; algorithms
+        level: 90%
 
 
 footer: >
