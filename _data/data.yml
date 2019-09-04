@@ -243,9 +243,21 @@ projects:
       Some small libs, tools, slides and docker images.
 
     assignments:
+      - title: ruian-api
+        link: "https://github.com/jindrichskupa/ruian-api"
+        tagline: "API for Czech Address Database aka RUAIN."
+
+      - title: vocative-api
+        link: "https://github.com/jindrichskupa/vocative-api"
+        tagline: "Public REST API for Czech Vocatives based on Minister of the Interior database and validace.cz."
+
       - title: CzFaker
         link: "https://github.com/eManPrague/cz_faker"
         tagline: "Faker for Czech data with validators."
+
+      - title: CzFaker API
+        link: "https://github.com/jindrichskupa/czfaker-api"
+        tagline: "API for Faker generates Czech data with validators."
 
       - title: ApiMiniTester
         link: "https://github.com/eManPrague/api-mini-tester"
