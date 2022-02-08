@@ -48,9 +48,9 @@ career-profile:
       I would like to grow.
 
 education:
-    - degree: PhD in Computer Science
+    - degree: PhD in Computer Science (unfinished)
       university: University of West Bohemia
-      time: 2012 - present
+      time: 2012 - 2021
       details: |
         Field of study: Distributed systems and networks
         
@@ -90,9 +90,34 @@ education:
           - Computer networks
 
 experiences:
+    - role: DevOps Engineer
+      time: 2021 - Present
+      company: Cookielab s.r.o.
+      details: |
+        Infrstructure and build process automation and management.
+
+          - Amazon Web Services: ALB, SQS, S3, EKS, ECS, Lambda, RDS/Aurora, DocumentDB, API Gateway, ...
+          - Terraform
+          - Ansible
+          - Kubernetes, Helm
+          - Gitlab + Gitlab CI
+          - OpenVPN
+          - Grafana stack (grafana, prometheus, loki)
+          - Supporting development stack: javascript, php, python, go
+          - Troubleshooting
 
     - role: Lector
-      time: 2018 - Present
+      time: 2021 - Present
+      company: University of West Bohemia
+      details: |
+        Distributed systems and networks and lectures.
+
+          - Computer networks 101
+          - Network and system administration
+          - Network application security
+
+    - role: Lector
+      time: 2018 - 2020
       company: Unicorn College s.r.o.
       details: |
         Part-time courses lector
@@ -100,7 +125,7 @@ experiences:
           - Operating systems and computer networks
 
     - role: Solution Architect &amp; DevOps Team Leader
-      time: 2013 - Present
+      time: 2013 - 2021
       company: eMan s.r.o.
       details: |
         High-level application design. System integration. API and interface specifications. Technology &amp; GitLab evangelist.
@@ -137,20 +162,21 @@ experiences:
 
           - Web servers (apache, nginx)
           - Application servers (puma, unicorn, tomcat, nodejs, spring)
-          - Databases (PostgreSQL, MySQL, LDAP, Redis, MySQL, ...)
+          - Databases (PostgreSQL, MySQL, LDAP, Redis, ...)
           - Cloud deployment and management (GCP, AWS, Azure)
           - Kubernetes, High avalability, Scaling
           - VPN, routing and networking (Linux, Cisco)
           - Log management (ELK, Syslog)
           - CI/CD (Gitlab, Travis, CircleCI)
           - Virtualisation &amp; containers (KVM, docker)
-          - System automation: puppet, ansible, chef
-          - Monitoring (zabbix, sensu, nagios)
+          - System automation: terraform, ansible
+          - Monitoring (zabbix, sensu, nagios, grafana stack)
           - PKI, SSL
           - IAM (LDAP, OAuth, SAML, AD, OpenID)
+          - Cloud deployment: Azure, AWS
 
     - role: PhD. Student and Junior Researcher
-      time: 2012 - Present
+      time: 2012 - 2021
       company: University of West Bohemia
       details: |
         Distributed systems and networks and lectures.
