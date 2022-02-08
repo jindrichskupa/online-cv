@@ -43,9 +43,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am looking for new challenges and opportunities. I really love information technology with the focus on programming, applications, API and distributed systems with high availability and fault tolerance. My passion is to deliver the high-quality application with added value. API design, database design, protocol specification and standard usage is my true hobby.
+      I am looking for new challenges and opportunities. I really love information technology with the focus on application development, API and distributed systems with high availability and fault tolerance. My passion is to deliver the high-quality application with added value. API design, database design, protocol specification, this is my true hobby.
 
-      I would like to grow.
+      I would like to learn and improve.
 
 education:
     - degree: PhD in Computer Science (unfinished)
@@ -97,10 +97,10 @@ experiences:
         Infrstructure and build process automation and management.
 
           - Amazon Web Services: ALB, SQS, S3, EKS, ECS, Lambda, RDS/Aurora, DocumentDB, API Gateway, ...
-          - Terraform
+          - Terraform &amp; Vault
           - Ansible
           - Kubernetes, Helm
-          - Gitlab + Gitlab CI
+          - Gitlab &amp; Gitlab CI
           - OpenVPN
           - Grafana stack (grafana, prometheus, loki)
           - Supporting development stack: javascript, php, python, go
@@ -110,7 +110,7 @@ experiences:
       time: 2021 - Present
       company: University of West Bohemia
       details: |
-        Distributed systems and networks and lectures.
+        Lectures.
 
           - Computer networks 101
           - Network and system administration
@@ -147,11 +147,12 @@ experiences:
           - Application servers (puma, unicorn, tomcat, nodejs, spring)
           - Databases (PostgreSQL, MySQL, LDAP, Redis, MySQL...)
           - Cloud, Kubernetes
+          - Terraform &amp; Vault
           - Log management
-          - CI/CD
+          - Gitlab CI/CD
           - Virtualisation &amp; containers (KVM, docker)
-          - System automation: puppet, ansible, chef
-          - Monitoring (zabbix, nagios, mrtg)
+          - System automation: puppet, ansible
+          - Monitoring (zabbix, nagios, prtg)
           - PKI
           
     - role: DevOps Engineer &amp; System Specialist
@@ -324,8 +325,23 @@ skills:
     title: Skills &amp; Proficiency (WIP)
 
     toolset:
-      - name: Ruby &amp; Ruby on Rails
+      - name: Terraform
         level: 85%
+
+      - name: Ansible
+        level: 85%
+
+      - name: Gitlab
+        level: 90%
+
+      - name: Ruby &amp; Ruby on Rails
+        level: 80%
+
+      - name: Golang (hobby)
+        level: 20%
+
+      - name: Python (hobby)
+        level: 20%
 
       - name: Cloud (GCE, AWS, Azure)
         level: 85%
