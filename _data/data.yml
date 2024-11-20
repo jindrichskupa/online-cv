@@ -256,7 +256,7 @@ certifications:
       end: 2027
       organization: Amazon Web Services
       credentialid: 
-      credentialurl: https://cp.certmetrics.com/amazon/en/public/verify/credential/3c52dbce14664b0e9b36d341bd0c2c42
+      credentialurl: cp.certmetrics.com/amazon/en/public/verify/credential/3c52dbce14664b0e9b36d341bd0c2c42
       credentialname: AWS Certified Solutions Architect - Associate
       details: >
         The AWS Certified Solutions Architect – Associate examination is
